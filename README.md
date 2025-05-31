@@ -40,5 +40,5 @@ Result of 2.0 ^ 3.0 = 8.0
 
 ```text
 NoGUI-Calculator/
-├── calculator.py
+├── NoGUI-Calculator.py
 └── README.md
